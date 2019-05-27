@@ -16,3 +16,9 @@ __pycache__/
 readonly/
 other_versions/
 datasets/
+model_data/
+images/
+weights/
+pretrained-model/
+*.h5
+*.mp4
