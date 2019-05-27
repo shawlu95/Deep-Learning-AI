@@ -15,6 +15,7 @@ __pycache__/
 
 readonly/
 other_versions/
+data/
 datasets/
 model_data/
 images/
@@ -22,3 +23,11 @@ weights/
 pretrained-model/
 *.h5
 *.mp4
+starter/
+models/
+
+XY_dev/
+XY_train/
+raw_data/
+audio_examples/
+*.wav
