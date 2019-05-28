@@ -5,15 +5,15 @@
 | Module | Assignment | Grade | Link |
 |----|----------|-----------|------|
 | C1W2 | Python Basics with Numpy (v3) | - | [Link]() |
-| C1W2 |Logistic Regression with a Neural Network mindset (v3) | 100% | [Link]() |
-| C1W3 | Planar data classification with one hidden layer (v3) | 70% | [Link]() |
-| C1W4 | Building your Deep Neural Network - Step by Step (v3) | 80% | [Link]() |
-| C1W4 | Deep Neural Network Application/ Image Classification (v3) | 100% | [Link]() |
+| C1W2 | Logistic Regression with a Neural Network mindset (v3) | 100% | [Link]() |
+| C1W3 | Planar data classification with one hidden layer (v5) | 100% | [Link]() |
+| C1W4 | Building your Deep Neural Network - Step by Step (v8) | 100% | [Link]() |
+| C1W4 | Deep Neural Network Application / Image Classification (v3) | 100% | [Link]() |
 | C2W5 | Initialization (v1) | 100% | [Link]() |
 | C2W5 | Regularization (v1) | 100% | [Link]() |
-| C2W5 | Gradient Checking (v1) | 75% | [Link]() |
+| C2W5 | Gradient Checking (v1) | 100% | [Link]() |
 | C2W6 | Optimization (v1) | 100% | [Link]() |
-| C2W7 | TensorFlow (v1) | 100% | [Link]() |
+| C2W7 | TensorFlow (v2) | 100% | [Link]() |
 | C4W1 | Convolutional Model: step by step (v2) | 100% | [Link]() |
 | C4W2 | Convolutional model: application (v2) | 100% | [Link]() |
 | C4W2 | Residual Networks (v2) | 100% | [Link]() |
